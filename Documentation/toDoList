@@ -1,14 +1,2 @@
-admin page
-  Button to access it from home page needs to be added
-  
-Marty needs to add view items that have quantity change with database
-
-View item for multiuse paper is still giving NullPointerException
-  
-Cancel order (might have been done from mike but never added to most recent version)
-  needs to return to homepage
-  needs to reset the cart
-  
-Debug
 
 JAR file that contains external libraries and database
