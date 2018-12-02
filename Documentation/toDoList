@@ -1,4 +1,8 @@
 admin page
-view item pulls quantity from database
+  STILL NEEDS TO BE ADDED
+  
+Cancel order
+  needs to return to homepage
+  needs to reset the cart
 
 JAR file that contains external libraries and database
