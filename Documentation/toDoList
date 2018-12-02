@@ -1,11 +1,4 @@
 admin page
 view item pulls quantity from database
-checkout forms needs error checking
-  zip text box gets cut off
-  regex credit card ("^[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}$")
-  regex ccv         ("^[0-9]{3}$")
-  regex zip         ("^[0-9]{5}$")
-  regex expiration  ("^((0[1-9]|1[0-2])\/(0[1-9]|[1-9][0-9]))$")  
-
 
 JAR file that contains external libraries and database
