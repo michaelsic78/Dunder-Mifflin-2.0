@@ -1,5 +1,4 @@
 admin page
-view item buttons on homepage
 view item pulls quantity from database
 checkout forms needs error checking
   zip text box gets cut off
